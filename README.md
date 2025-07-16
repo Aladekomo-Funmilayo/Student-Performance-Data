@@ -14,7 +14,7 @@ I'm excited to share my first data analytic project built on Excel.
 
 Tools used; Microsoft Excel/ Pivot Table/ Pivot Chart
 
-• Explore the full project here:  
+• Explore the full project here: https://github.com/Aladekomo-Funmilayo/Student-Performance-Data.git
 
 This project helped my skills in storytelling, dashboard design and insight generation
 
